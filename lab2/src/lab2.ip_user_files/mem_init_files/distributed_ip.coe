@@ -1,0 +1,2 @@
+memory_initialization_radix=16;
+memory_initialization_vector=3A 4A A4 A3 01 00 01 11 3A 4A A4 A3 01 00 01 11;
