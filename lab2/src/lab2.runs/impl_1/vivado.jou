@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Apr 13 22:14:52 2021
+# Process ID: 4624
+# Current directory: C:/COD/lab2/lab2.runs/impl_1
+# Command line: vivado.exe -log FIFO.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source FIFO.tcl -notrace
+# Log file: C:/COD/lab2/lab2.runs/impl_1/FIFO.vdi
+# Journal file: C:/COD/lab2/lab2.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source FIFO.tcl -notrace
