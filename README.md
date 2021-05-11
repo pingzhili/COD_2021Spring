@@ -1,7 +1,7 @@
 # COD_2021Spring
 Computer Organization and Design Lab @USTC, 2021 Spring\
 
-**updating** \
+**updating** 
 
 Lab1. ALU\
 Lab2. Register file and RAM\
