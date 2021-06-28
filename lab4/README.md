@@ -1,4 +1,4 @@
-Supporting 6 instructions:
+Implemented 6 instructions:
 
 * **add** rd, rs1, rs2
 * **addi** rd, rs1, imm
